@@ -168,6 +168,13 @@ GEM
     jekyll-theme-hacker (0.1.2)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-hamilton (4.0.0)
+      jekyll (~> 3.9)
+      jekyll-feed (~> 0.13)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.6)
+      jekyll-sitemap (~> 1.4)
+      kramdown-parser-gfm (~> 1.1)
     jekyll-theme-leap-day (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -221,6 +228,8 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.11.5-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.11.5-x86_64-darwin)
+      racc (~> 1.4)
     octokit (4.21.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -267,6 +276,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 214)
   jekyll-feed (~> 0.12)
+  jekyll-theme-hamilton
   minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
