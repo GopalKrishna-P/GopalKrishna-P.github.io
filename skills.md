@@ -32,7 +32,7 @@ _\* elementary proficiency_
 # Others
 
 * Text editing in Vim, Sublime Text, Visual Studio Code
-* Command-line tools like GNU Project debugger(GDB) and valgrind
+* GNU tools like Make, GDB and Valgrind.
 * Document processing in LaTeX, Markdown, MS Office
 
 # Tools I Use

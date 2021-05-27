@@ -4,4 +4,6 @@ title: Academics
 permalink: /academics/
 ---
 
-# Academics
+## Indian Institute of Technology, Guwahati
+### B.Tech, Mechanical Engineering, _2015 - 2019_
+

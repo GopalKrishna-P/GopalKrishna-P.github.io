@@ -6,14 +6,10 @@ body {
 }
 
 a {
-  color: $link-base-color;
-
-  &:visited {
-    color: $link-visited-color;
-  }
+  color: $text-color;
 
   &:hover {
-    color: $text-color;
+    color: $link-base-color;
   }
 }
 
