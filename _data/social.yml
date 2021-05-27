@@ -1,6 +1,11 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/GopalKrishna-P/
   icon: fab fa-github
+
+- title: Linkedin
+  url: https://www.linkedin.com/in/gopalkrishna98/
+  icon: fab fa-linkedin-in
+
+- title: Twitter
+  url: https://twitter.com/gopalkrishna_98
+  icon: fab fa-twitter
