@@ -66,7 +66,6 @@ lang: en
 exclude:
   - scripts/
   - README.md
-  - jekyll-theme-hamilton.gemspec
 
 # Exclude from processing.
 # The following items will not be processed, by default.
