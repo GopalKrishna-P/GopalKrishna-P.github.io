@@ -28,10 +28,10 @@ github_username:  GopalKrishna-P
 
 # Build settings
 # Github Pages
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
-remote_theme: https://github.com/ngzhio/jekyll-theme-hamilton
+#remote_theme: https://github.com/ngzhio/jekyll-theme-hamilton
 
 plugins:
   - jekyll-feed
