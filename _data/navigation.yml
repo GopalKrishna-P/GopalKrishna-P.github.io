@@ -1,6 +1,12 @@
 - title: About
   url: /about/
 
+- title: Academics
+  url: /academics/
+
+- title: Learning
+  url: /learnings/
+
 - title: Skills
   url: /skills/
 
@@ -9,6 +15,3 @@
 
 - title: Contact
   url: /contact/
-
-- title: Test
-  url: /test/

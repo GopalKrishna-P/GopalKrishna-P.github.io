@@ -8,12 +8,7 @@ layout: home
 # Welcome to My Homepage
 -------------------------
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-Hi there, I am gopal 
+Hi there, I am gopal  
 
 
 
