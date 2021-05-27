@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+    <div class="site-container">
+      <header class="site-header">
+        {% include header.html %}
+      </header>
+      
+      <div class="site-body wrapper">
+        <aside class="site-sidebar" id="site-sidebar">
+          {% if page.toc %}
+            {% include sidebar-toc.html %}
+          {% else %}
+            {% include sidebar.html %}
+          {% endif %}
+        </aside>
+        <main class="site-main" id="site-main" aria-label="Content">
+          {{ content }}
+        </main>
+      </div>
+
+    </div>
+  </body>
+
+  <footer class="site-footer">
+    <div class="footer-col">
+      <p>
+        Powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://github.com/ngzhio/jekyll-theme-hamilton">Hamilton</a>
+      </p>
+    </div>
+  </footer>
+
+</html>

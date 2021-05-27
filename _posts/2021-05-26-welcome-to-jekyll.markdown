@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-09-23 03:46:32 +0530
 categories: jekyll update
-permalink: "/Blogs/:title.html"
+permalink: "/blogs/:title"
 author: "Gopal"
 ---
 
