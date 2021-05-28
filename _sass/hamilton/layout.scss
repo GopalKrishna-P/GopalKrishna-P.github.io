@@ -131,7 +131,7 @@
     text-decoration: line-through;
   }
 
-  @media screen and (min-width: $on-medium) {
+  @media screen and (min-width: $on-medium * 1.1) {
     position: static;
     float: right;
     border: none;
@@ -163,14 +163,14 @@
         &:not(:last-child) {
           margin-right: 0;
         }
-        margin-left: 10px;
+        margin-left: 5px;
       }
 
       .dropdown-content a {
         display: block;
         text-align: left;
         padding: 5px 15px 5px 5px;
-        margin-left: 10px;
+        margin-left: 5px;
       }
     }
   }

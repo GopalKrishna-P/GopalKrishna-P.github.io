@@ -1,0 +1,32 @@
+---
+layout: default
+---
+  <body>
+    <div class="container">
+      <link rel="stylesheet" type="text/css" href="/assets/css/default.css" />
+      <link rel="stylesheet" type="text/css" href="/assets/css/component.css" />
+      <script src="/assets/js/modernizr.custom.js"></script>
+      <div class="main">
+        <ul id="og-grid" class="og-grid">
+          {% for project in site.data.projects -%}
+            <li class="og-grid-items">
+              <a href="{{ project.url }}" data-title="{{ project.title }}" data-description="{{ project.description }}">
+                  <img src="{{ project.image }}" alt = "{{ project.title }}"/>
+              </a>
+            </li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/assets/js/grid.js"></script>
+    <script>
+      $(function() {
+        Grid.init();
+      });
+      $(".img").wrap('<div class="image-text-reveal"/>');
+      $(".img").each(function() {
+        $(this).after('<p class="alt-text">' + $(this).attr('alt') + '</p>');
+      })
+    </script>
+  </body>
