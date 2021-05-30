@@ -11,7 +11,10 @@ layout: default
           {% for project in site.data.projects -%}
             <li class="og-grid-items">
               <a href="{{ project.url }}" data-title="{{ project.title }}" data-description="{{ project.description }}">
-                  <img src="{{ project.image }}" alt = "{{ project.title }}"/>
+                  <img src="{{ project.image }}" alt = "{{ project.title }}" width="100%"/>
+                  <div class="og-grid-items-title">
+                    <p>{{ project.title }}</p>
+                  </div>
               </a>
             </li>
           {%- endfor %}
@@ -29,4 +32,7 @@ layout: default
         $(this).after('<p class="alt-text">' + $(this).attr('alt') + '</p>');
       })
     </script>
+    <div class="post-content">
+      {{ content }}
+    </div>
   </body>
