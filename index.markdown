@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<div style="text-align:center"><img alt="hello" src="assets/images/hello.png" width="70%"/></div>
+<div style="text-align:center"><img alt="hello" src="assets/images/hello.png" width="100%"/></div>
