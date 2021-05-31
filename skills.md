@@ -4,7 +4,7 @@ title: Skillset
 permalink: /skills/
 ---
 
-# Programming
+## Programming
 
 * C/C++, Java, Tcl/TK, Ruby*, Bash, zsh
 * Python, R, , MATLAB\*
@@ -12,36 +12,41 @@ permalink: /skills/
 
 _\* elementary proficiency_
 
-# Machine Learning
+## Machine Learning
 
 * Packages: NumPy, Pandas, Matplotlib, Tensorflow, PyTorch& PyTorch3D.
-*   
+* Good understanding of predictive modelling, machine learning algorithms and deep learning using neural networks.
 
-# Mechanical Engineering
+## Mechanical Engineering
 
 - Good Knowledge on Solid Mechanics, Finite Element Analysis, Strength of Materials, Fluid Mechanics and Numerical Methods.
 - Proficient in Altair's suite of CAE tools Hypermesh, Hyperworks
 - Proficient in CAD tools Solid Edge and AutoCAD.
 - Basic analysis in Ansys and Abaqus.
 
-# Web Development
+## Web Development
 
 * Generating static website using JAMStack (Javascript + APIs + Markup).
-* Full-stack development using Django stack (JavaScript + Python + Django + MySQL).
+* Full-stack development using Django stack (JavaScript + jQuery + Python + Django + MySQL).
 
-# Others
+## Tools I Use
 
-* Text editing in Vim, Sublime Text, Visual Studio Code
+* IDE: PyCharm, Visual Studio, Xcode, RStudio and QtCreator.
+* Editors: Vim, Sublime Text, Visual Studio Code
 * GNU tools like Make, GDB and Valgrind.
-* Document processing in LaTeX, Markdown, MS Office
-
-# Tools I Use
-
-* Visual Studio for C & C++
-* Docker for maintaining development environment.
+* Docker for maintaining development environments.
 * Virtualenv and Anaconda for python package management.
 * Jupyter notebooks & IPython(Ananconda distribution) and IDLE for Python
-* RStudio for R programming
-* Window's WSL for development.
+* WSL for linux development in Windows.
 * Proficient in Version Control Systems like git & p4
 * Experience with Mac, Windows and Linux Operating Systems
+* LaTeX, Markdown, MS Office for Document processing.
+
+## Others
+
+* Can speak in Telugu, Hindi and English.
+* Strong communication, presentation and technical-writing skills.
+* Strong analytical &problem-solving skills, ability to work independently with a focus on quality.
+* Experience in Agile development methodologies and Scrum.
+
+

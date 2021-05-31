@@ -183,7 +183,7 @@ ul.task-list li .task-list-item-checkbox { margin: 0 .5em .25em -1.6em; vertical
 .site-title { font-size: 1.625rem; font-family: "American Typewriter", "serif"; letter-spacing: -1px; margin-bottom: 0; float: left; }
 @media screen and (max-width: 600px) { .site-title { float: center; } }
 
-.site-nav { position: absolute; top: 12px; right: 1rem; border: 1px solid; border-radius: 0.4em; text-align: right; }
+.site-nav { z-index: 1; position: absolute; top: 12px; right: 1rem; border: 1px solid; border-radius: 0.4em; text-align: right; }
 .site-nav .nav-trigger { display: none; }
 .site-nav .menu-icon { float: right; width: 36px; height: 36px; line-height: 0; text-align: center; }
 .site-nav .menu-icon svg { width: 18px; height: 18px; padding-top: 9px; }

@@ -1,11 +1,13 @@
 {% if site.avatar -%}
   <div class="sidebar-section">
-    {%- if site.avatar contains "://" -%}
-      {%- assign avatar = site.avatar -%}
-    {%- else -%}
-      {%- assign avatar = site.avatar | relative_url -%}
-    {%- endif -%}
-    <img src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
+    <a href="/">
+      {%- if site.avatar contains "://" -%}
+        {%- assign avatar = site.avatar -%}
+      {%- else -%}
+        {%- assign avatar = site.avatar | relative_url -%}
+      {%- endif -%}
+      <img src="{{ avatar }}" class="author-avatar u-photo align-center" alt="{{ site.author }}">
+    </a>
   </div>
 {%- endif %}
 

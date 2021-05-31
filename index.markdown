@@ -5,14 +5,4 @@
 layout: home
 ---
 
-# Welcome to My Homepage
-
-
-Hi there, I am gopal 
-
-`<ToDo>`
-
-
-
-
-
+<div style="text-align:center"><img alt="hello" src="assets/images/hello.png" width="70%"/></div>
