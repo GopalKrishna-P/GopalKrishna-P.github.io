@@ -14,11 +14,15 @@ permalink: /projects/
 
 > \* Ongoing
 
+<br/>
+
 ### CS 231n: CNN for Visual Recognition course Projects
 * Image classification pipline using kNN, SVM, Softmax classifiers.
 * Implemented backpropagation, normalization, dropout and CNN.
 * Implemented RNNs for image captioning on Microsoft COCO.
 * Implemented a GAN to generate images that match a training dataset.
+
+<br/>
 
 ### [Pint OS](https://github.com/GopalKrishna-P/OS_coursework)
 _As part of CS140: Operating Systems course (done as MOOC)_
