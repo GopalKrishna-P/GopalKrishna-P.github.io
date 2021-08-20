@@ -3,7 +3,7 @@ layout: "page"
 title: Learning
 permalink: /learnings/
 ---
-Currently, pursuing an undergrad Computer Science majors through open-sourced, university-level MOOC's that meets the requrements of MIT's Computer Science and Engineering (6-3). Check out my [![Coursework](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/GopalKrishna-P/OpenSource_CSdegree#readme) for more info.
+Currently, finishing an undergrad CS degree through open-sourced, university-level MOOCs that satisfy MIT's Computer Science and Engineering (6-3) requirements. Check out my [![Coursework](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/GopalKrishna-P/OpenSource_CSdegree#readme) for more info.
 
 -------------------------
 
