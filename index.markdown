@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<div style="text-align:center"><img alt="hello" src="assets/images/aboutme.svg" width="100%"/></div>
+<img alt="hello" src="assets/images/aboutme.svg"/>
